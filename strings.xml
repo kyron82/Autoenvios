@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoEnvíos</string>
+    <string name="accessibility_service_label">AutoEnvíos — Monitor de Rutas</string>
+    <string name="accessibility_description">Permite a AutoEnvíos leer la pantalla de Envíos Extra y agendar rutas automáticamente según tus prioridades.</string>
+</resources>
